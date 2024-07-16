@@ -9,3 +9,4 @@ This is a repo with the homework for [llm-zoomcamp](https://github.com/DataTalks
 - 04-orchestration: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/04-orchestration/homework.md
 - 05-monitoring: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/05-monitoring/homework.md
 - 06-best-practices: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/06-best-practices/homework.md
+- dlt workshop: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/workshops/dlt.md
